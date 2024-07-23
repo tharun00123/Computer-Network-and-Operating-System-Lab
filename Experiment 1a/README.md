@@ -1,7 +1,7 @@
 # Program File
 ![Program File](FCFS_LE_515.py)
 # Sample Output
-![Sample Output](SampleOutput.png)
+![Sample Output](Sample_Output.png)
 # Tested Output
-![Tested Output](TestedOutput.png)
+![Tested Output](Tested_Output.png)
 
