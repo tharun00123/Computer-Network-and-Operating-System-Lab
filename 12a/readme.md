@@ -1,6 +1,6 @@
 # Program File
 ![Program File](mft_LE_515.py)
 # Sample Output
-![Sample Output](SampleOutput.png)
+![Sample Output](SampleOutput.PNG)
 # Tested Output
-![Tested Output](TestedOutput.png)
+![Tested Output](TestedOutput.PNG)
